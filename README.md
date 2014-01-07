@@ -83,5 +83,6 @@ This document is made by [gitfab](http://gitfab.org)
 - 電圧と発熱量の対応表を作って温度を直接書き込めるようにしたい
 - 3Dプリンタでカバーをモデリングしたい
 
+---
 #ライセンス
 ![](http://creativecommons.jp/wp/wp-content/uploads/2009/10/by-nc-sa.png)
