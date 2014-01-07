@@ -1,8 +1,7 @@
 # Hotto-Mouse
-## 
+## sfc2013-design-strategy
 This document is made by [gitfab](http://gitfab.org)
 ---
-
 #コンセプト
 - 長時間にわたる作業をすると知らぬ間に体温が奪われてたりする
 - 冬場は手がかじかんでマウスが使いづらい
@@ -35,11 +34,11 @@ This document is made by [gitfab](http://gitfab.org)
 
 ---
 #実装コード
-<script src="https://gist.github.com/keroxp/8295787.js"></script>
+
 
 ---
 #デモ用コード
-<script src="https://gist.github.com/keroxp/8295805.js"></script>
+
 
 ---
 #使ってみた
